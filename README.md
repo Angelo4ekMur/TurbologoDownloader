@@ -12,9 +12,11 @@ Use the Tampermonkey extension and add this script. After you generate the logo 
 1) Installing the extension 
 
 ![image](https://github.com/Angelo4ekMur/TurbologoDownloader/assets/93180894/69b53fa8-9d9e-4706-a306-d3a252df4c2c)
+
 2) Click "Create a new script"
 
 ![image](https://github.com/Angelo4ekMur/TurbologoDownloader/assets/93180894/6eaa2af5-82da-41c9-ae6c-f0aeff3bd625)
+
 3) Add here the code from the TubologoDownloader.js file
 
 ![image](https://github.com/Angelo4ekMur/TurbologoDownloader/assets/93180894/50cfc03f-6ed5-42af-bc8d-5750f2720d01)
